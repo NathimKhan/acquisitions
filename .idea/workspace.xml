@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ca00a1d-8b63-4a56-96db-7d3d454a77d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/logger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controllers/auth.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/auth.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/auth.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/cookies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/jwt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/validations/auth.validation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/validations/format.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,13 +109,16 @@
     "ignore.virus.scanning.warn.message": "true",
     "javascript.preferred.runtime.type.id": "node",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/nathi/WebstormProjects/acquisitions",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\nathi\\WebstormProjects\\acquisitions\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "actions.on.save",
     "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2026.1.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -126,6 +140,9 @@
       <workItem from="1780556389492" duration="840000" />
       <workItem from="1780557267833" duration="259000" />
       <workItem from="1780557549269" duration="4646000" />
+      <workItem from="1780568871067" duration="2791000" />
+      <workItem from="1780597403418" duration="1785000" />
+      <workItem from="1780637629201" duration="11891000" />
     </task>
     <servers />
   </component>
